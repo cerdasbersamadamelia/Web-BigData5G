@@ -1,0 +1,46 @@
+Domain website dapat diakses pada link berikut:
+
+1. Lusi Damayanti       : www.kpivideostreaming5g.com
+
+   			  Login berdasarkan tipe user:
+                          Admin:
+			  - Username: lusidmynti
+	                  - Password: Siap@#12
+
+			  Data Engineer:
+			  - Username: damel
+	                  - Password: Baik@#12
+
+			  User Business
+			  - Username: user123
+			  - Password: User@#12
+
+2. Sheren Regina Pingkan: www.voltemonitoring.com
+
+		          Login berdasarkan tipe user:
+                          Admin:
+			  - Username: sheren
+	                  - Password: ABC123456
+			  Data Engineer:
+			  - Username: pingkan28
+	                  - Password: ABC123456
+			  User Business
+			  - Username: silmy
+			  - Password: ABC123456
+
+			  Akses Telegram dapat menggunakan link berikut:
+			  https://bit.ly/voltemonitoringbot
+
+3. Damelia              : www.bigdata5g.com 
+
+			  Login berdasarkan tipe user:
+                          Admin:
+			  - Username: damel
+			  - Password: 2022D@m3l1a_$bigData5G
+			  Data Engineer:
+			  - Username: lia
+			  - Password: 2022D@m3l1a_$bigData5G
+			  User Business
+			  - Username: asri
+			  - Password: $bigData5G
+   
