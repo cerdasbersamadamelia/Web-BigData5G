@@ -1,0 +1,11 @@
+.g-recaptcha {
+    box-sizing: border-box;
+    transform-origin: left top;
+    -webkit-transform-origin: left top;
+}
+
+.container_captcha {
+    width: 100%;
+    padding: 3%;
+    /* background: #ccc; */
+}
